@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/handoing-ig-download-mcp-server-badge.png)](https://mseep.ai/app/handoing-ig-download-mcp-server)
+
 # ig-download-mcp-server
 
 MCP service for downloading Instagram videos
